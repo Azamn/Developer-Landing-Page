@@ -15,7 +15,7 @@ In this project i have created a Developer Landing Page. And i have learnt a lot
 
 ### My Project is looking like :
 
-![Web Site Image](./screenshot/developer-landing-page.png)
+![Web Site Image](./screenshot/developer-landing-page-new.png)
 
 ## Time taken to finish this project
 
